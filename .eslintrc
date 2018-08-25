@@ -1,0 +1,19 @@
+{
+	"extends": ["react-app", "airbnb"],
+	"env": {
+		"browser": true,
+		"commonjs": true,
+		"es6": true,
+    "node": true
+	},
+	"parserOptions": {
+		"ecmaFeatures": {
+      "jsx": true,
+      "modules": true,
+      "es6": true
+		},
+		"sourceType": "module"
+	},
+	"plugins": ["react"],
+	"parser": "babel-eslint"
+}
