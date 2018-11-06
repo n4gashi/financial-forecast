@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.16.7"
+  }
+}
